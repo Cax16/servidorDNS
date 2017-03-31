@@ -1,4 +1,5 @@
 # servidorDNS
+(como no sabia meter las fotos te adjunto el word por si se viera mejor que asi)
 Raid 0
  https://github.com/Cax16/servidorDNS/blob/master/raid%200.png
 Raid 5
